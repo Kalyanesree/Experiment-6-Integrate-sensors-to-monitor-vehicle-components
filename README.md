@@ -83,7 +83,9 @@ end
 ```
 
 ## OUTPUT
-<img width="844" height="579" alt="image" src="https://github.com/user-attachments/assets/a0990954-5f1e-4f42-8e48-c169a490cd15" />
+<img width="1038" height="221" alt="image" src="https://github.com/user-attachments/assets/e4f10630-5ee6-45cb-823f-fc870c6c7736" />
+
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/4d37140a-88ab-4199-8a4f-48b6b03b23fb" />
 
  
 ## RESULT
